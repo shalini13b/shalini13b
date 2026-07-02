@@ -1,54 +1,116 @@
-# Hey 👋 I'm Shalini  
+# Hi there, I'm Shalini 👋
 
-### 💻 Full Stack Developer  
-🚀 ROR | MySQL | React JS | AWS | MongoDB | Next.js | GraphQL | Python | Flask  
+## 💻 Senior Full Stack Developer
 
-📍 Madhya Pradesh, India  
+Building scalable web applications with modern technologies.
 
----
+🚀 **Ruby on Rails | React.js | Next.js | Python | Flask | AWS | GraphQL | Docker**
 
-## ✨ About Me  
-I’m a passionate **Full Stack Developer** who loves building scalable, high-performance web applications.  
-
-I work across both backend and frontend, using technologies like **Ruby on Rails, React, Next.js, and Python** to create clean, efficient, and user-friendly solutions.  
-
-I enjoy:  
-- ⚡ Building fast and scalable systems  
-- 🧠 Solving real-world problems with code  
-- 🎨 Creating beautiful and responsive web interfaces  
-
-> I love creating websites that are not just functional, but also meaningful and impactful.
+📍 Madhya Pradesh, India
 
 ---
 
-## 🛠️ Tech Stack  
+# 👩‍💻 About Me
 
-**Backend:**  
-Ruby on Rails • Python • Flask • Node.js  
+I'm a passionate **Full Stack Developer** with experience building scalable, secure, and high-performance web applications.
 
-**Frontend:**  
-React.js • Next.js • JavaScript • HTML • CSS  
+I enjoy transforming ideas into reliable products by working across both frontend and backend technologies. My focus is on writing clean, maintainable code while delivering exceptional user experiences.
 
-**Database:**  
-MySQL • MongoDB • PostgreSQL  
+### I enjoy
 
-**Tools & Cloud:**  
-AWS • Docker • Git • GraphQL  
+- 🚀 Building scalable web applications
+- ⚡ Designing high-performance APIs
+- 🎨 Creating responsive and intuitive user interfaces
+- 🧠 Solving real-world engineering problems
+- ☁️ Deploying cloud-native applications
+- 📚 Continuously learning new technologies
+
+> *"I believe great software is not just about writing code—it's about creating meaningful experiences that make an impact."*
 
 ---
 
-## 🚀 Experience  
+# 🛠 Tech Stack
 
-**Senior Software Developer**    
-- Building scalable APIs and microservices  
-- Working with AWS & Docker for deployment  
-- Developing full-stack applications using Python & Next.js   
-- Developed high-performance Ruby on Rails applications  
-- Built responsive UI using React & Next.js  
-- Integrated services like Stripe, Twilio, SendGrid  
+## Backend
 
-## 🌐 Connect With Me  
+- Ruby on Rails
+- Python
+- Flask
+- Node.js
+- REST APIs
+- GraphQL
 
-📧 Email: shalini1302b@gmail.com  
+## Frontend
 
-⭐ *Open to collaborating on exciting projects and opportunities!*  
+- React.js
+- Next.js
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+
+## Databases
+
+- MySQL
+- PostgreSQL
+- MongoDB
+
+## Cloud & DevOps
+
+- AWS
+- Docker
+- Git
+- GitHub
+
+## Third-Party Integrations
+
+- Stripe
+- Twilio
+- SendGrid
+
+---
+
+# 💼 Professional Experience
+
+## Senior Software Developer
+
+### Key Responsibilities
+
+- 🚀 Developed scalable Ruby on Rails applications
+- ⚙️ Designed and built RESTful APIs & GraphQL services
+- ☁️ Deployed applications using AWS and Docker
+- 💻 Built modern frontend applications with React.js & Next.js
+- 🐍 Developed backend services using Python & Flask
+- 🔗 Integrated payment, messaging, and email platforms including:
+  - Stripe
+  - Twilio
+  - SendGrid
+- 🏗 Worked on scalable microservices architecture
+- 🤝 Collaborated with cross-functional teams to deliver production-ready applications
+
+---
+
+# 🚀 What I'm Working On
+
+- Building scalable full-stack applications
+- Cloud-native deployments on AWS
+- Performance optimization
+- Modern React & Next.js applications
+- API architecture and integrations
+
+---
+
+# 🤝 Let's Connect
+
+📧 **Email:** shalini1302b@gmail.com
+
+I'm always open to discussing:
+
+- Full Stack Development
+- Ruby on Rails Projects
+- React & Next.js Applications
+- Freelance Opportunities
+- Open Source Collaboration
+
+---
+
+⭐ **Thanks for visiting my profile! If you like my work, consider giving a ⭐ to my repositories.**
